@@ -1,1 +1,1 @@
-My name is betty
+0x01. Shell, permissions
